@@ -1,0 +1,9 @@
+@import url(assets/css/bootstrap.css);
+/* @import url(css/bootstrap-responsive.css); */
+
+
+body {background: orange;}
+
+.thumbnails a:hover{border-color: red;} 
+
+
